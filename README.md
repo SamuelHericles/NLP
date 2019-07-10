@@ -7,14 +7,26 @@ Uma introdução a PLN:
   
 # Dependências
   + Jupyter Notebook;
-  + Eclipse IDE;
-  + Java SE versão 1.8 ou superior.
+  + Pandas;
+  + Sklearn -> LogisticRegression
+  + Sklearn -> CountVectorizer
+  + WordCloud
+  + Matplotlib
+  + Nltk
+  + Seaborn
+  + String
+  + Unicode
 
 # Execução
   1. Baixe o ZIP;
   2. Extraia o contéudo;
-  3. Abar-o no NetBeans ou Ecplise IDE como projeto;
-  4. Execute o arquivo The_hill.java que está em ~/hillClimbing/src/hill_climbing/The_hill.java.
+  3. Abar-o com jupyter notebook, caso não tenha visite o site
+    + https://jupyter.org/install 
+  4. No computar execute o comando:
+  ```shell
+      jupyter notebook
+  ```
+  5. Procure por pln.ipynb
 
 # Autores
   + Samuel Hericles - samuel.hericles@outlook.com
