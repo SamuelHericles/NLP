@@ -28,8 +28,8 @@ Uma introdução a PLN:
   ```
   5. Procure por pln.ipynb
 
-# Autores
+# Autor
   + Samuel Hericles - samuel.hericles@outlook.com
   
 # Status do projeto
- O projeto se encontra com finalizado devido ao fato de termos alcançado nosso objeto, mas caso queria fazer alguma melhoria ou usá-lo para alguma aplicação, entre em contato conosco.
+ O projeto se encontra com finalizado devido ao fato de termos alcançado nosso objeto, mas caso queria fazer alguma melhoria ou usá-lo para alguma aplicação, entre em contato comigo.
