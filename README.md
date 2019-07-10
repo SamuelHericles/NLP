@@ -22,7 +22,7 @@ Uma introdução a PLN:
   2. Extraia o contéudo;
   3. Abar-o com jupyter notebook, caso não tenha visite o site
     + https://jupyter.org/install 
-  4. No computar execute o comando:
+  4. No terminal windows ou linux e no local do projeto no seu computador execute o comando:
   ```shell
       jupyter notebook
   ```
